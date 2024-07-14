@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Infinix GT 20 Pro Smart Phone",
+        "price":"25757",
+        "description":"12 GB RAM | 512 GB ROM | 16.33 cm (6.43 inch) Display | 64MP Rear Camera | 4500 mAh Battery",
+        "images":[
+            {
+             "image":"/images/products/infpfront.png"
+            },
+            {
+                 "image":"/images/products/infiprear.png"
+            }
+        ],
+        "category":"Mobile Phones",
+        "seller" :"Amazon",
+        "stock" : 41   
+    },
+    {
+        "name": "Fastrack Revoltt FS1 Smart Watch",
+        "price":"1850",
+        "description":"Advanced Chipset | SingleSync BT Calling | AI Voice Assistant, NitroFast Charge : 10 minutes = 1 day use |Upto 2 Days Battery",
+        "images":[
+            {
+                "image":"/images/products/watchfr.png"
+            },
+            {
+                "image":"/images/products/watchre.png"
+            },
+            {
+                "image":"/images/products/watch3.png"
+            }
+           
+        ],
+        "category":"SmartWatch",
+        "seller" :"FastTrack Corporation Private Limited",
+        "stock" : 58 
+    },
+    {
+        "name": "Acer Predator Neo (2023) Intel Core i7 13th Gen 13700HX Laptop ",
+        "price":"87450",
+        "description":"6 GB RAM | 1 TB SSD | Windows 11 Home | 6 GB GraphicsCard | NVIDIA GeForce RTX 4050 | 16 Inch Screen | Obsidian Black ",
+        "images":[
+            {
+                "image":"/images/products/lap1fr.png"
+            },
+            {
+                "image":"/images/products/lap1re.png"
+            },
+            {
+                "image":"/images/products/lap1ex.png"
+            }
+        ],
+        "category":"Laptops",
+        "seller" :"Acer Corporation Private Limited",
+        "stock" : 24   
+    },
+    {
+        "name": "Sony Bravia  4K LED Smart TV",
+        "price":"55650",
+        "description":"55 inch X1 4K Processor with dolby audio quality and built-in google assistance",
+        "images":[
+            {
+                "image":"/images/products/tv1fr.png"
+            },
+            {
+                "image":"/images/products/tv1re.png"
+            }
+        ],
+        "category":"Television",
+        "seller" :"Sony Corporation Private Limited",
+        "stock" : 5   
+    },
+    {
+        "name": "Sony Playstation5 Digital Edition",
+        "price":"45850",
+        "description":"PS5 Digital edition unleashes new gaming possibilities that you never anticipated",
+        "images":[
+            {
+                "image":"/images/products/psfr.png"
+            },
+            {
+                "image":"/images/products/psre.png"
+            },
+            {
+                "image":"/images/products/psw.png"
+            }
+        ],
+        "category":"Gaming Consoles",
+        "seller" :"Snapdeal",
+        "stock" : 42 
+    },
+    {
+        "name": "Canon EOS 24.2px R15 Mirrorless camera",
+        "price":"75850",
+        "description":"Capture memorable moments at 12fps with CMOS Sensor,bluetooth and Wi-Fi Connectivity",
+        "ratings":3.58,
+        "images":[
+            {
+                "image":"/images/products/camera.png"
+            },
+            {
+                "image":"/images/products/camerafront.png"
+            }
+        ],
+        "category":"Camera",
+        "seller" :"Canon Corporation Private Limited",
+        "stock" : 24  
+    },
+    {
+        "name": "AGARO Imperial Espresso Coffee Maker(Silver)",
+        "price":"17645",
+        "description":"Good quality product of 6 Cups Coffee Maker. It comes in various range & variety and hence fulfills the need of all",
+        "ratings":4.2,
+        "images":[
+            {
+                "image":"/images/products/coffeemakerfront.png"
+            },
+            {
+                "image":"/images/products/coffeemakerrear.png"
+            }
+
+        ],
+        "category":"Kitchen Appliances",
+        "seller" :"Agaro Imperial Corporation Private Limited",
+        "stock" : 52  
+    },
+    {
+        "name": "Infinix Inbook Y2 Plus Intel Core i5 11th Gen 1155G7 Laptop ",
+        "price":"42150",
+        "description":"16 GB RAM | 512 GB SSD | Windows 11 Home | XL29 Thin and Light Laptop | 15.6 inch Screen | Blue | ",
+        "ratings":3.5,
+        "images":[
+            {
+                "image":"/images/products/infinixfront.png"
+            },
+            {
+                "image":"/images/products/infinixrear.png"
+            },
+            {
+                "image":"/images/products/infispec.png"
+            }
+        ],
+        "category":"Laptops",
+        "seller" :"Infinix Corporation Private Limited",
+        "stock" : 34    
+    }
+]
